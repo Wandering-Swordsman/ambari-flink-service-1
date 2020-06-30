@@ -69,13 +69,13 @@
 
   <property>
     <name>flink_download_url</name>
-    <value>http://www.us.apache.org/dist/flink/flink-1.9.1/flink-1.9.1-bin-scala_2.11.tgz</value>
+    <value>https://mirror.bit.edu.cn/apache/flink/flink-1.10.1/flink-1.10.1-bin-scala_2.11.tgz</value>
     <description>Snapshot download location. Downloaded when setup_prebuilt is true</description>
   </property>
 
   <property>
     <name>flink_hadoop_shaded_jar</name>
-    <value>https://repo.maven.apache.org/maven2/org/apache/flink/flink-shaded-hadoop-2-uber/2.6.5-7.0/flink-shaded-hadoop-2-uber-2.6.5-7.0.jar</value>
+    <value>http://116.85.64.79/redoop/flink-shaded-hadoop-2-uber-3.1.1-9.0.jar</value>
     <description>Flink shaded hadoop jar download location. Downloaded when setup_prebuilt is true</description>
   </property>
 </configuration>
