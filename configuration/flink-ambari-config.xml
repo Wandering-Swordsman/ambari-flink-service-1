@@ -75,7 +75,7 @@
 
   <property>
     <name>flink_hadoop_shaded_jar</name>
-    <value>http://116.85.64.79/redoop/flink-shaded-hadoop-2-uber-3.1.1-9.0.jar</value>
+    <value>https://mirror.bit.edu.cn/apache/flink/flink-shaded-9.0/flink-shaded-hadoop-2-uber-3.1.1-9.0.jar</value>
     <description>Flink shaded hadoop jar download location. Downloaded when setup_prebuilt is true</description>
   </property>
 </configuration>
